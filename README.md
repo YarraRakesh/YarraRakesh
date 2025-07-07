@@ -1,72 +1,100 @@
-# Rakesh Yarra
+<h1 align="center">Hi, I'm Rakesh Yarra 👋</h1>
 
-Aspiring Software Engineer with a strong foundation in Electronics & Communication Engineering, complemented by a minor in Computer Science. Experienced in AI/ML, VLSI, IoT, and Salesforce Development. Passionate about building efficient systems and solving real-world problems through technology.
+<p align="center">
+  <strong>Aspiring Software Developer</strong> | AI/ML | IoT | VLSI | DSA | OOP<br>
+  <strong>Electronics and Communication Engineering</strong> @ Pragati Engineering College<br>
+  📍 Kakinada, Andhra Pradesh | 📧 yarrarakesh39@gmail.com | 📞 +91 93915 48969
+</p>
 
----
-
-## 🔹 Technical Summary
-
-- **Programming Languages**: Python, Verilog HDL, Embedded C, HTML/CSS, SQL
-- **Tools & Platforms**: Salesforce, MPLAB X IDE, VS Code, Git, Excel
-- **Domains**: Machine Learning, VLSI Design & Verification, IoT Systems, Web Development
-- **Certifications**: Salesforce AI Associate | VLSI Design Flow (NPTEL)
-
----
-
-## 🔹 Selected Projects
-
-### AI Career Path Predictor  
-ML-based classification model that suggests career paths based on academic scores, skills, and interests.  
-*Technologies:* Python, Pandas, Scikit-learn, Flask  
-[GitHub Repository](#)
+<p align="center">
+  <a href="http://www.linkedin.com/in/rakeshyarra"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
+  <a href="https://leetcode.com/u/Yarra_Rakesh/"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode" /></a>
+  <a href="https://www.hackerrank.com/profile/yarrarakesh39"><img src="https://img.shields.io/badge/HackerRank-Profile-brightgreen?logo=hackerrank" /></a>
+</p>
 
 ---
 
-### IoT-Based Vehicle Tracking System  
-Real-time GPS tracking system using NodeMCU and GPS module. Features include location updates and speed monitoring.  
-*Technologies:* Embedded C, IoT, HTTP, Arduino IDE  
-[GitHub Repository](#)
+## 🧑‍💻 About Me
+
+Motivated engineering student with hands-on experience in building real-world software, AI/ML, and IoT applications.  
+Skilled in Python, C, Verilog, web development, and database systems. Passionate about problem-solving, technology, and continuous learning.
 
 ---
 
-### Composting Efficiency Analysis  
-Web + ML project to predict compost efficiency from organic waste data.  
-*Technologies:* Python, ML Algorithms, HTML/CSS, JavaScript  
-[GitHub Repository](#)
+## 🚀 Tech Stack
+
+### 💻 Languages & Tools
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
+![Verilog](https://img.shields.io/badge/-Verilog-8B0000?logo=verilog&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+
+### ⚙️ Tools & Libraries
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas)
+![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikitlearn)
 
 ---
 
-### 24-Hour Digital Clock in Verilog  
-Implements a counter-based digital clock using Verilog HDL. Designed for synthesis and FPGA deployment.  
-*Technologies:* Verilog, ModelSim, Quartus  
-[GitHub Repository](#)
+## 📌 Projects
+
+| Project | Tech Stack | Description |
+|--------|------------|-------------|
+| [AI-Powered Career Path Predictor](https://github.com/YarraRakesh/AI-Powered-Career-Path-Predictor.git) | Python, Streamlit, ML | Predicts career paths based on academic scores, skills, and interests |
+| [IoT Vehicle Tracker](https://github.com/YarraRakesh/-IOT-BASED-VEHICLE-TRACKING-AND-MONITORING-USING-GPS.git) | NodeMCU, GPS, TCP/IP | Tracks vehicles in real-time using Wi-Fi & GPS |
+| [Adder Compressor for SAD](https://github.com/YarraRakesh/Efficient_Adder_Compressor_Design_For_Sum_Of_Absolute_Difference_Calculation_Yarra_Rakesh.git) | Verilog | Optimized hardware design for SAD used in VLSI image processing |
+| [Employee Management System](https://github.com/YarraRakesh/Employee-Management-System-using-Python-and-MySQL.git) | Python, MySQL | CLI-based system to manage employee records with CRUD operations |
 
 ---
 
-## 🔹 Experience & Roles
+## 📚 Education
 
-- **Technical Event Coordinator**, IETE & IoT Club  
-  Conducted workshops and events on Verilog, IoT, Web Development, and Python.
-
-- **Embedded Systems Developer Intern**, Microchip Technology (via AICTE Eduskills)  
-  Developed sensor-based embedded applications using PIC microcontrollers and Embedded C.
+- 🎓 **B.Tech – ECE** @ Pragati Engineering College (2022–2026) | CGPA: 9.16  
+- 🧮 **Intermediate – MPC** @ Sri Chaitanya Junior College | 88.6%  
+- 🏫 **SSC** @ Sri Adarsha High School | 98%
 
 ---
 
-## 🔹 Achievements
+## 💼 Internships & Experience
 
-- Certified Salesforce AI Associate – Dec 2024  
-- Academic Topper – Pragati Engineering College  
-- VLSI Design Flow – RTL to GDS (IIIT Delhi – SWAYAM NPTEL)
-
----
-
-## 🔹 Contact
-
-- **LinkedIn**: [linkedin.com/in/rakeshyarra](http://www.linkedin.com/in/rakeshyarra)  
-- **Email**: [your.email@example.com] (Add if you want to show)  
-- **Location**: Andhra Pradesh, India
+- **AI–ML Virtual Internship** – AWS Academy via Eduskills (Apr–Jun 2025)  
+- **Embedded Systems Intern** – Microchip via AICTE (Oct–Dec 2024)
 
 ---
 
-*Last Updated: July 2025*
+## 🏆 Certifications
+
+- Salesforce AI Associate – Salesforce (Dec 2024)  
+- VLSI Design Flow – NPTEL (Nov 2024)  
+- Foundations of Cloud, IoT, Edge ML – NPTEL (Apr 2025)  
+- Zscaler Zero Trust Certified Associate – Zscaler (Jun 2025)
+
+---
+
+## 👨‍🏫 Leadership & Activities
+
+- Club Coordinator – IETE, IoT, Code Crafters  
+- Conducted IoT & Web Development workshops  
+- Event Lead – “Circuit Craze”  
+- Passionate about personal development & fitness
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YarraRakesh&show_icons=true&theme=default" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YarraRakesh&layout=compact&theme=default" height="150" />
+</p>
+
+---
+
+📅 *Last updated: July 2025*
+
+
