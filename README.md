@@ -46,6 +46,9 @@ Skilled in Python, C, Verilog, web development, and database systems. Passionate
 
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
+| [Employee Recognition Tracker - Salesforce](https://github.com/YarraRakesh/Employee-Recognition-Tracker.git) | Salesforce (Flows, Validation Rules, Reports, Dashboards...) | Automates employee recognition based on performance data with role-based access, auto-sorting, manager feedback, email alerts, and interactive dashboards. |
+| [IPL Sponsorship Manager - Salesforce](https://github.com/YarraRakesh/IPL-Sponsorship-Manager-Salesforce.git) | Salesforce (Flows, Email Alerts, Reports, Dashboards...) | Manages IPL sponsorships, triggers alerts for high-value deals, and provides visual sponsorship analytics using 100% admin tools (no code). |
+| [Community Service Request Tracker - ServiceNow](https://github.com/YarraRakesh/Community-Service-Request-Tracker.git) | ServiceNow (Scoped Application, Flows, Roles...) | Tracks and manages community service requests with role-based access, approval workflows, and dashboards. |
 | [AI-Powered Career Path Predictor](https://github.com/YarraRakesh/AI-Powered-Career-Path-Predictor.git) | Python, Streamlit, ML | Predicts career paths based on academic scores, skills, and interests |
 | [IoT Vehicle Tracker](https://github.com/YarraRakesh/-IOT-BASED-VEHICLE-TRACKING-AND-MONITORING-USING-GPS.git) | NodeMCU, GPS, TCP/IP | Tracks vehicles in real-time using Wi-Fi & GPS |
 | [Adder Compressor for SAD](https://github.com/YarraRakesh/Efficient_Adder_Compressor_Design_For_Sum_Of_Absolute_Difference_Calculation_Yarra_Rakesh.git) | Verilog | Optimized hardware design for SAD used in VLSI image processing |
