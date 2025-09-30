@@ -46,6 +46,7 @@ Skilled in Python, C, Verilog, web development, and database systems. Passionate
 
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
+| [CampusClub360 - Salesforce](https://github.com/YarraRakesh/CampusClub360.git) | Salesforce (QR/Barcode Scanning, Apex, Flows, LWC, Reports, Dashboards) | A unified campus solution for tracking student attendance via QR codes, managing sports registrations, and handling campus store sales with barcode scanning, automated stock management, approval processes, and insightful dashboards. |
 | [Employee Recognition Tracker - Salesforce](https://github.com/YarraRakesh/Employee-Recognition-Tracker.git) | Salesforce (Flows, Validation Rules, Reports, Dashboards...) | Automates employee recognition based on performance data with role-based access, auto-sorting, manager feedback, email alerts, and interactive dashboards. |
 | [IPL Sponsorship Manager - Salesforce](https://github.com/YarraRakesh/IPL-Sponsorship-Manager-Salesforce.git) | Salesforce (Flows, Email Alerts, Reports, Dashboards...) | Manages IPL sponsorships, triggers alerts for high-value deals, and provides visual sponsorship analytics using 100% admin tools (no code). |
 | [Community Service Request Tracker - ServiceNow](https://github.com/YarraRakesh/Community-Service-Request-Tracker.git) | ServiceNow (Scoped Application, Flows, Roles...) | Tracks and manages community service requests with role-based access, approval workflows, and dashboards. |
